@@ -5,7 +5,12 @@
   <version>0.0.1-SNAPSHOT</version>
   
   
+  
  <build>
+ 
+    <defaultGoal>package</defaultGoal>
+
+ 
   <plugins>
   
   <plugin>
@@ -33,7 +38,9 @@
       </plugin>
   </plugins>
   
+  
   </build>
+  
   
   
   <dependencies>
@@ -76,7 +83,9 @@
     <version>5.0.3</version>
 </dependency>
 
+
   
   </dependencies>
+  
   
 </project>
