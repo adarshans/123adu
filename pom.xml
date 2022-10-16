@@ -28,6 +28,7 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
         <configuration>
+         <encoding>UTF-8</encoding>
         <source>1.7</source>
         <target>1.7</target>
           <verbose>true</verbose>
@@ -36,6 +37,7 @@
           <compilerVersion>1.2</compilerVersion>
         </configuration>
       </plugin>
+    
   </plugins>
   
   
